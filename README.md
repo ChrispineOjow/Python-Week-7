@@ -16,6 +16,11 @@ pip install pandas matplotlib seaborn scikit-learn
 1. Make sure you have the required libraries installed.  
 2. Save the provided Python code as `data_analysis.py`.  
 3. Run the script from your terminal:
+    `````
+    python data_analysis.py
+
+    `````
+
 
 
 The script will print the analysis results to the console and display a window with the generated plots.
