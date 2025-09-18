@@ -30,7 +30,7 @@ The script will print the analysis results to the console and display a window w
 The script is organized into three main tasks:
 
 ### Task 1: Load and Explore the Dataset
-- Loads the classic Iris dataset directly from scikit-learn. ✅  
+- Loads the classic Iris dataset directly from ``scikit-learn``. ✅  
 - Displays the first few rows to give a quick overview of the data. ✨  
 - Provides a summary of the dataset's structure, including data types and non-null values. 🔎  
 - Checks for and handles missing data (although the Iris dataset is clean). 🧹  
